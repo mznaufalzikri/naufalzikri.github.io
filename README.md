@@ -13,5 +13,5 @@
 - Filing 200 old correspondences
 
 ## PROJECTS
-### Data Cleaning Project #1 with Microsoft Excel
-[Publication]
+### Project 1: French Bakery Sales Analysis Dashboard Using Microsoft Excel
+![View README](https://github.com/mznaufalzikri/250824_project1/README.md)
