@@ -1,10 +1,17 @@
-# Data Entry Projects
+# Finance Administrative Enthusiast
 
-### Education
-Accounting, Bachelor
+##### TECHNICAL SKILLS: Ms Excel, MySQL
+
+## EDUCATION
+- S.Akun, Sharia Accounting | UIN Raden Mas Said Surakarta, Indonesia (_July 2025_)
 
 ### Work Experience
-Finance Admin Intern @ Kementerian Kelautan dan Perikanan
+**Finance Admin Intern @ Kementerian Kelautan dan Perikanan (_December 2023 - January 2024_)**
+- Collecting, filtering, and sorting Echelon I expenditure and revenue report data using Pivot Table
+- Preparing worksheets for the performance assesment of 13 work units
+- Compiling a timeline for the preparation of the ministry's 2023 financial report
+- Filing 200 old correspondences
 
-### Projects
-Data Cleaning Project #1
+## PROJECTS
+### Data Cleaning Project #1 with Microsoft Excel
+[Publication]
